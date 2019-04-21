@@ -1,0 +1,59 @@
+#leaf1 {
+    visibility: hidden;
+    opacity: 0;
+    transition: visibility 0s 1s, opacity 1s linear;
+  }
+  
+  #leaf2 {
+    visibility: hidden;
+    opacity: 0;
+    transition: visibility 0s 2s, opacity 2s linear;
+  }
+
+  #leaf3 {
+    visibility: hidden;
+    opacity: 0;
+    transition: visibility 0s 3s, opacity 3s linear;
+  }
+
+  #leaf4 {
+    visibility: hidden;
+    opacity: 0;
+    transition: visibility 0s 4s, opacity 4s linear;
+  }
+
+  #leaf5 {
+    visibility: hidden;
+    opacity: 0;
+    transition: visibility 0s 5s, opacity 5s linear;
+  }
+
+  #leaf6 {
+    visibility: hidden;
+    opacity: 0;
+    transition: visibility 0s 6s, opacity 6s linear;
+  }
+
+  #leaf7 {
+    visibility: hidden;
+    opacity: 0;
+    transition: visibility 0s 7s, opacity 7s linear;
+  }
+
+  #leaf8 {
+    visibility: hidden;
+    opacity: 0;
+    transition: visibility 0s 8s, opacity 8s linear;
+  }
+
+  #leaf9 {
+    visibility: hidden;
+    opacity: 0;
+    transition: visibility 0s 9s, opacity 9s linear;
+  }
+
+  #leaf10 {
+    visibility: hidden;
+    opacity: 0;
+    transition: visibility 0s 10s, opacity 10s linear;
+  }
