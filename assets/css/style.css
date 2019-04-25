@@ -58,24 +58,8 @@
     transition: visibility 0s 5s, opacity 5s linear;
   }
 
-  .card {
-    width: 130px;
-    height: 195px;
-    background: url("/examples/images/card-back.jpg") no-repeat;
-    margin: 50px;
-}
-.card:hover {
-    background: url("/examples/images/card-front.jpg") no-repeat;
-}
 
-.gold-text {
-  color:#c3a343;
-  -webkit-text-fill-color: transparent;
-  background: -webkit-linear-gradient(transparent, transparent),
-  url("/assets/images/gold.jpg") repeat;
-  background: -o-linear-gradient(transparent, transparent);
-  -webkit-background-clip: text;
-}
+
 
 #mac {
   height: 45px;
@@ -138,6 +122,15 @@
   opacity: 2;
 }
 
+#rose:hover {
+  content: url('../images/hang1.png');
+  height: 160px;
+  width: 160px;
+  top: 65px;
+  left: 95px;
+}
+
+
 #me2 {
   height: 135px;
   width: 130x;
@@ -146,6 +139,14 @@
   z-index:2;
   left: 100px;
   
+}
+
+#me2:hover {
+  content: url('../images/triv1.png');
+  height: 160px;
+  width: 160px;
+  top: 240px;
+  left: 90px;
 }
 
 #palm {
@@ -158,3 +159,10 @@
   
 }
 
+#palm:hover {
+  content: url('../images/killow.png');
+  height: 160px;
+  width: 160px;
+  top: 435px;
+  left: 95px;
+}
