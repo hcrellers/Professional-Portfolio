@@ -214,3 +214,40 @@
 body, html {
   cursor: url("cursor.png"), auto;
 }
+
+
+
+ 
+@media screen and (max-width: 980px) and (min-width: 769px) {
+
+#leaf {
+
+  height
+
+}
+  
+
+
+}
+
+ 
+ @media screen and (max-width: 768px) and (min-width: 641px) {
+ 
+ 
+
+
+
+
+
+ }
+
+ 
+  @media screen and (max-width: 640px) and (min-width: 441px) {
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  }
