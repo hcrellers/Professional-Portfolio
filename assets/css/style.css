@@ -1,59 +1,149 @@
 #leaf1 {
     visibility: hidden;
     opacity: 0;
-    transition: visibility 0s 1s, opacity 1s linear;
+    transition: visibility 0s 6s, opacity 6s linear;
   }
   
   #leaf2 {
     visibility: hidden;
     opacity: 0;
-    transition: visibility 0s 2s, opacity 2s linear;
+    transition: visibility 0s 6s, opacity 6s linear;
   }
 
   #leaf3 {
     visibility: hidden;
     opacity: 0;
-    transition: visibility 0s 3s, opacity 3s linear;
+    transition: visibility 0s 6s, opacity 6s linear;
   }
 
   #leaf4 {
     visibility: hidden;
     opacity: 0;
-    transition: visibility 0s 4s, opacity 4s linear;
+    transition: visibility 0s 6s, opacity 6s linear;
   }
 
   #leaf5 {
     visibility: hidden;
     opacity: 0;
-    transition: visibility 0s 5s, opacity 5s linear;
+    transition: visibility 0s 6s, opacity 6s linear;
   }
 
   #leaf6 {
     visibility: hidden;
     opacity: 0;
-    transition: visibility 0s 6s, opacity 6s linear;
+    transition: visibility 0s 5s, opacity 5s linear;
   }
 
   #leaf7 {
     visibility: hidden;
     opacity: 0;
-    transition: visibility 0s 7s, opacity 7s linear;
+    transition: visibility 0s 5s, opacity 5s linear;
   }
 
   #leaf8 {
     visibility: hidden;
     opacity: 0;
-    transition: visibility 0s 8s, opacity 8s linear;
+    transition: visibility 0s 5s, opacity 5s linear;
   }
 
   #leaf9 {
     visibility: hidden;
     opacity: 0;
-    transition: visibility 0s 9s, opacity 9s linear;
+    transition: visibility 0s 5s, opacity 5s linear;
   }
 
   #leaf10 {
     visibility: hidden;
     opacity: 0;
-    transition: visibility 0s 10s, opacity 10s linear;
+    transition: visibility 0s 5s, opacity 5s linear;
   }
+
+  .card {
+    width: 130px;
+    height: 195px;
+    background: url("/examples/images/card-back.jpg") no-repeat;
+    margin: 50px;
+}
+.card:hover {
+    background: url("/examples/images/card-front.jpg") no-repeat;
+}
+
+.gold-text {
+  color:#c3a343;
+  -webkit-text-fill-color: transparent;
+  background: -webkit-linear-gradient(transparent, transparent),
+  url("/assets/images/gold.jpg") repeat;
+  background: -o-linear-gradient(transparent, transparent);
+  -webkit-background-clip: text;
+}
+
+#mac {
+  height: 50px;
+  width: 90px;
+  top: 325px;
+  position:absolute; 
+  z-index:2;
+  right: 300px;
+  
+}
+
+#pc {
+  height: 40px;
+  width: 60x;
+  top: 250px;
+  position:absolute; 
+  z-index:2;
+  right: 500px;
+  
+}
+
+
+#nb {
+  height: 350px;
+  width: 650x;
+  top: 260px;
+  position:absolute; 
+  z-index:2;
+ left: 400px;
+  
+}
+
+#pen {
+  height: 90px;
+  width: 60x;
+  top: 400px;
+  position:absolute; 
+  z-index:2;
+ right: 400px;
+  
+}
+
+#latte {
+  height: 120px;
+  width: 120x;
+  top: 200px;
+  position:absolute; 
+  z-index:2;
+  right: 300px;
+  
+}
+
+#rose {
+  height: 130px;
+  width: 130x;
+  top: 70px;
+  position:absolute; 
+  z-index:2;
+  left: 100px;
+  opacity: 2;
+}
+
+#me {
+  height: 135px;
+  width: 130x;
+  top: 200px;
+  position:absolute; 
+  z-index:2;
+  left: 100px;
+  
+}
