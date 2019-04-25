@@ -78,8 +78,8 @@
 }
 
 #mac {
-  height: 50px;
-  width: 90px;
+  height: 45px;
+  width: 80px;
   top: 325px;
   position:absolute; 
   z-index:2;
@@ -100,7 +100,7 @@
 
 #nb {
   height: 350px;
-  width: 650x;
+  width: 750x;
   top: 260px;
   position:absolute; 
   z-index:2;
@@ -119,12 +119,12 @@
 }
 
 #latte {
-  height: 120px;
-  width: 120x;
-  top: 200px;
+  height: 150px;
+  width: 150x;
+  top: 210px;
   position:absolute; 
   z-index:2;
-  right: 300px;
+  right: 333px;
   
 }
 
@@ -138,12 +138,23 @@
   opacity: 2;
 }
 
-#me {
+#me2 {
   height: 135px;
   width: 130x;
-  top: 200px;
+  top: 245px;
   position:absolute; 
   z-index:2;
   left: 100px;
   
 }
+
+#palm {
+  height: 130px;
+  width: 130x;
+  top: 440px;
+  position:absolute; 
+  z-index:2;
+  left: 100px;
+  
+}
+
