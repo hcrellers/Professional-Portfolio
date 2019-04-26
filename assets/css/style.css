@@ -182,55 +182,77 @@
   top: 70px;
   position:absolute; 
   z-index:2;
-  left: 100px;
+  left: 80px;
   opacity: 2;
 }
 
 #rose:hover {
   content: url('../images/hang1.png');
-  height: 140px;
-  width: 140px;
+  height: 150px;
+  width: 150px;
   top: 65px;
-  left: 95px;
+  left: 70px;
 }
 
-#hg {
-  height: 40px;
-  width: 60x;
-  top: 200px;
+#sun {
+  height: 130px;
+  width: 130x;
+  top: 70px;
   position:absolute; 
   z-index:2;
-  left: 90px;
+  left: 220px;
+  opacity: 2;
+}
+
+#sun:hover {
+  content: url('../images/hr.png');
+  height: 150px;
+  width: 150x;
+  top: 65px;
+  position:absolute; 
+  z-index:2;
+  left: 220px;
   opacity: 2;
 }
 
 
 #me2 {
-  height: 145px;
-  width: 140x;
-  top: 245px;
+  height: 130px;
+  width: 130x;
+  top: 255px;
   position:absolute; 
   z-index:2;
-  left: 100px;
+  left: 80px;
   
 }
 
 #me2:hover {
   content: url('../images/triv1.png');
-  height: 155px;
-  width: 160px;
-  top: 240px;
-  left: 90px;
+  height: 150px;
+  width: 150px;
+  top: 255px;
+  left: 70px;
 }
 
-#triv {
-  height: 40px;
-  width: 45x;
-  top: 390px;
+#moon {
+  height: 130px;
+  width: 130x;
+  top: 255px;
   position:absolute; 
   z-index:2;
-  left: 100px;
+  left: 220px;
   
+}
+
+#moon:hover {
+  content: url('../images/tr.png');
+  height: 150px;
+  width: 150x;
+  top: 251px;
+  position:absolute; 
+  z-index:2;
+  left: 218px;
+
 }
 
 
@@ -240,24 +262,47 @@
   top: 440px;
   position:absolute; 
   z-index:2;
-  left: 100px;
+  left: 80px;
   
 }
 
 #palm:hover {
   content: url('../images/killow.png');
-  height: 160px;
-  width: 160px;
-  top: 435px;
-  left: 95px;
+  height: 150px;
+  width: 150px;
+  top: 440px;
+  left: 75px;
+}
+
+#night {
+  height: 130px;
+  width: 130x;
+  top: 440px;
+  position:absolute; 
+  z-index:2;
+  left: 220px;
+  
+}
+
+#night:hover {
+  content: url('../images/kill.png');
+  height: 150px;
+  width: 150x;
+  top: 440px;
+  position:absolute; 
+  z-index:2;
+  left: 220px;
+  
 }
 
 #name {
  
-  top: 50px;
+  top: 40px;
   position:absolute; 
   z-index:2;
- right:550px;
+ left: 550px;
+ width: 225px;
+
   
 }
 
