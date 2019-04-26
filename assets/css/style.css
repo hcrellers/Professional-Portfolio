@@ -73,12 +73,22 @@
 
 #mac:hover {
   content: url('../images/gh.png');
-  height: 75px;
-  width: 75px;
-  top: 305px;
+  height: 65px;
+  width: 65px;
+  top: 300px;
   position:absolute; 
   z-index:2;
   right: 265px;
+  
+}
+
+#git {
+  height: 50px;
+  width: 65px;
+  top: 340px;
+  position:absolute; 
+  z-index:2;
+  right: 270px;
   
 }
 
@@ -92,7 +102,15 @@
   
 }
 
-
+#res {
+  height: 30px;
+  width: 50x;
+  top: 275px;
+  position:absolute; 
+  z-index:2;
+ left: 490px;
+  
+}
 
 #nb {
   height: 350px;
@@ -100,7 +118,7 @@
   top: 260px;
   position:absolute; 
   z-index:2;
- left: 400px;
+ left: 420px;
   
 }
 
@@ -111,7 +129,7 @@
   top: 260px;
   position:absolute; 
   z-index:2;
- left: 400px;
+ left: 420px;
   
 }
 
@@ -146,6 +164,17 @@
   
 }
 
+#linked {
+
+  top: 278px;
+  position:absolute; 
+  z-index:2;
+  right: 410px;
+  height: 60px;
+  width: 80x;
+
+}
+
 
 #rose {
   height: 130px;
@@ -159,10 +188,20 @@
 
 #rose:hover {
   content: url('../images/hang1.png');
-  height: 160px;
-  width: 160px;
+  height: 140px;
+  width: 140px;
   top: 65px;
   left: 95px;
+}
+
+#hg {
+  height: 40px;
+  width: 60x;
+  top: 200px;
+  position:absolute; 
+  z-index:2;
+  left: 90px;
+  opacity: 2;
 }
 
 
@@ -178,11 +217,22 @@
 
 #me2:hover {
   content: url('../images/triv1.png');
-  height: 170px;
-  width: 165px;
+  height: 155px;
+  width: 160px;
   top: 240px;
   left: 90px;
 }
+
+#triv {
+  height: 40px;
+  width: 45x;
+  top: 390px;
+  position:absolute; 
+  z-index:2;
+  left: 100px;
+  
+}
+
 
 #palm {
   height: 130px;
